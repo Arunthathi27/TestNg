@@ -28,6 +28,7 @@ public class AssertionSample extends BaseClass{
 		assertEquals(testData, searchValue);
 		
 		System.out.println("done");
+		System.out.println("a");
 		
 		//assertTrue
 		//WebElement amazonLogo = findElementByXpath("//a[@aria-label='Amazon.in']");
